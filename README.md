@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
 
-- 🔭 I’m currently working on [trural](https://hitesh-c.github.io/trural)
+- 🔭 I’m currently working on [Trural](https://hitesh-c.github.io/trural)
 
 - 🌱 I’m currently learning **React.js, Typescript, Python, Machine learning**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hiteshchawlang@gmail.com**
 
-- 📄 Know about my experiences [https://api.whatsapp.com/send?phone=919467491676&text=Hi%20Hitesh%2C%20I%20want%20your%20resume..](https://api.whatsapp.com/send?phone=919467491676&text=Hi%20Hitesh%2C%20I%20want%20your%20resume..)
+- 📄 Know about my resume [https://api.whatsapp.com/send?phone=919467491676&text=Hi%20Hitesh%2C%20I%20want%20your%20resume..](https://api.whatsapp.com/send?phone=919467491676&text=Hi%20Hitesh%2C%20I%20want%20your%20resume..)
 
 - ⚡ Fun fact **Best sense of Humor**
 
