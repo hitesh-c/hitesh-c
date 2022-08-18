@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chawla</h1>
-<h3 align="center">A passionate Software engineering student from India, Learning</h3>
+<h3 align="center">A 21 yo passionate Software engineering student from India, Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
 
 - 🔭 I’m currently working on [Trural](https://hitesh-c.github.io/trural)
 
-- 🌱 I’m currently learning **React.js, Typescript, Python, Machine learning**
+- 🌱 I’m currently a Final year student at **UIET Panjab University, Chandigarh, India**
 
 - 📝 I regularly write articles on [fresource.tech](fresource.tech)
 
-- 💬 Ask me about **React.js, Nest.js, Node.js, pyhton**
+- 💬 Ask me about **Full-stack web development and Artificial Intelligence**
 
 - 📫 How to reach me **hiteshchawlang@gmail.com**
 
