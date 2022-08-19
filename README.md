@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [fresource.tech](fresource.tech)
 
-- 💬 Ask me about **Full-stack web development and Artificial Intelligence**
+- 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
 
 - 📫 How to reach me **hiteshchawlang@gmail.com**
 
