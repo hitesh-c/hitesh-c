@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Edytube](https://www.edytube.com)
 
-- 🌱 I’m currently a Final year student at **UIET Panjab University, Chandigarh, India**
-
 - 📝 I regularly write articles on [GeeksforGeeks](fresource.tech)
 
 - 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
