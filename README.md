@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
 
-- 🔭 I’m currently working on [Edytube](https://www.edytube.com)
-
-- 📝 I regularly write articles on [GeeksforGeeks](fresource.tech)
+- 🔭 I write C++, JavaScript, Python.
 
 - 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
 
