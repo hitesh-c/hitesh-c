@@ -30,6 +30,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
