@@ -29,4 +29,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
+
 [![Latest blog post workflow](https://github.com/hitesh-c/hitesh-c/actions/workflows/blank.yml/badge.svg)](https://github.com/hitesh-c/hitesh-c/actions/workflows/blank.yml)
