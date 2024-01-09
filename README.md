@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chawla</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
-
 - 🔭 I write C++, JavaScript, Python.
 
 - 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
@@ -30,4 +28,5 @@
 - [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
 [![Latest blog post workflow](https://github.com/hitesh-c/hitesh-c/actions/workflows/blank.yml/badge.svg)](https://github.com/hitesh-c/hitesh-c/actions/workflows/blank.yml)
