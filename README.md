@@ -25,6 +25,7 @@
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
+- [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
 - [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
 <!-- BLOG-POST-LIST:END -->
 
