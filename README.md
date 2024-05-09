@@ -5,10 +5,6 @@
 
 - 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
 
-- 📫 How to reach me **hiteshchawlang@gmail.com**
-
-- 📄 Know about my [resume](https://api.whatsapp.com/send?phone=919467491676&text=Hi%20Hitesh%2C%20I%20want%20your%20resume..)
-
 - ⚡ Fun fact **Best sense of Humor**
 
 <!-- <h3 align="left">Connect with me:</h3>
