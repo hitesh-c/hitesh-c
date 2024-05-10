@@ -21,6 +21,7 @@
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
+- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
 - [What to use parquet or CSV?](https://dev.to/hiteshchawla/what-to-use-parquet-or-csv-3bp7)
 - [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
 - [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
