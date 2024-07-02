@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
 
-- ⚡ Fun fact **Best sense of Humor**
+- ⚡ **Best sense of Humor**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
