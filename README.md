@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chawla</h1>
 <h3 align="center"></h3>
 
-- 🔭 I write C++, JavaScript, Python.
+- 🔭 I write Python, javaScript, C++ and other programming languages when required.
 
-- 💬 Ask me about **Open source, Full-stack web development and Artificial Intelligence**
+- 💬 Ask me about **Open source, Data Engineering, Full-stack Web Development and Artificial Intelligence**
 
 - ⚡ **Best sense of Humor**
 
