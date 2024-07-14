@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chawla</h1>
 <h3 align="center"> About me</h3>
 
-- 🔭 I write Python, javaScript, C++ and other programming languages when required.
-
-- 2+ Years of Experience in Software & IT Industry 
+- 🔭 I write Python, javaScript, C++ and other programming languages when required. 
 
 - 💬 Ask me about **Open source, Data Engineering, Full-stack Web Development and Artificial Intelligence**
 
