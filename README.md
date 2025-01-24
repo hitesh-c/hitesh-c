@@ -21,10 +21,10 @@
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
+- [Async vs Await](https://dev.to/hiteshchawla/async-vs-await-1ccj)
+- [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
 - [Race Condition in Python.](https://dev.to/hiteshchawla/race-condition-in-python-2kao)
 - [R-Lock vs Lock in Python](https://dev.to/hiteshchawla/r-lock-vs-lock-in-python-3po9)
-- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
-- [What to use parquet or CSV?](https://dev.to/hiteshchawla/what-to-use-parquet-or-csv-3bp7)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
