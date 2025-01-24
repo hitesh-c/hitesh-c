@@ -21,10 +21,10 @@
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
+- [Threads](https://dev.to/hiteshchawla/threads-15ef)
 - [Async vs Await](https://dev.to/hiteshchawla/async-vs-await-1ccj)
 - [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
 - [Race Condition in Python.](https://dev.to/hiteshchawla/race-condition-in-python-2kao)
-- [R-Lock vs Lock in Python](https://dev.to/hiteshchawla/r-lock-vs-lock-in-python-3po9)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-c&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-c" /> </p>
