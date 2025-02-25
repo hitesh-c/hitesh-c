@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Hitesh Chawla</h1>
-<h3 align="center">Multi Purpose Software Engineer 2+ Yrs. in Full-Stack & Data Engineering</h3>
+<h4 align="center">Multi Purpose Software Engineer 2+ Yrs. having Full-Stack & Data Engineering Skills</h4>
 
 - 🔭 I write Python, javaScript, C++ and other programming languages when required. 
 
