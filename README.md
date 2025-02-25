@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hitesh Chawla</h1>
-<h3 align="center">Software Engineer 2+ Yrs. in Full-Stack & Data Engineering</h3>
+<h1 align="center">Hey👋, I'm Hitesh Chawla</h1>
+<h3 align="center">Multi Purpose Software Engineer 2+ Yrs. in Full-Stack & Data Engineering</h3>
 
 - 🔭 I write Python, javaScript, C++ and other programming languages when required. 
 
@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/hiteshchawla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hiteshchawla" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Tech Stack I've Worked with:</h3>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
